@@ -18,5 +18,5 @@ margin_bottom = 7.0
 text = "Hello World"
 
 [node name="Icon" type="Sprite" parent="."]
-position = Vector2( 510, 399 )
+position = Vector2( 647, 289 )
 texture = ExtResource( 1 )
